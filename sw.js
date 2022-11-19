@@ -1,7 +1,7 @@
 self.addEventListener('install', (e) => {
     e.waitUntil(
         caches.open('train-store').then((cache) => cache.addAll([
-            '/'
+            './'
         ])),
     );
 });
