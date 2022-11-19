@@ -11,5 +11,5 @@
     ],
     "name": "南京地铁列车时刻实时查询",
     "short_name": "南京地铁时刻查询",
-    "start_url": "/index.html"
+    "start_url": "./index.html"
 }
