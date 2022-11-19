@@ -1,7 +1,7 @@
 {
     "background_color": "white",
     "description": "南京地铁列车时刻实时查询",
-    "display": "fullscreen",
+    "display": "standalone",
     "icons": [
         {
             "src": "./assets/icon/fox-icon.png",
